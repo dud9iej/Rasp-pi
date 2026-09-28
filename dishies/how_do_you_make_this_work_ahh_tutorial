@@ -1,0 +1,60 @@
+      .._...___....                                               
+      --/'XXXXXX'':.......              ,,'  ,,''                  
+      ,|XXXXXXXXX|/'XXX'`._           ,-   ,/' ,_.                 
+     /'|XXXXX|'X,.'XXXXXXX`--.               _/' '`--..            
+   '/' \.XXX.X .,/XXXXXXX/ |            _.--..b       ''-._    .   
+   /'       ''-''.._XXXX/  |           '- .. ,'`-.        '`\. |   
+  ,/      ,/'     ,'`._/  |'            ,'.'  ,'  \b.    ,,-'  | ,'
+  |       `.     ,'       |          _,-'XX|_ ' ' , '''|,''    ' | 
+ ,|             `'       ,'       ,/''XXXXXX''`.,-''_,/|'        | 
+ |.                  _o ,'       .'XXXXXXXXXXXXXXX`|','-        ,| 
+ |`               X`''| |       ,/XXXXXXXXXXXXXX,Y'`--'            
+ '|       ``--------,/ ,'     X/'XXXXXXXXXXXXXX,',,'               
+  |       'Y     __o' ./     ,'XXXXXXXXXXXXXXX,','                 
+  '`-.__  ''''''''...o'X    |'XXXXXXXXXXXXXXX/,/'                  
+       ''..Y'XX         X  ./XXXXXXXXXXXXXXX.,'                    
+`------.'-------,'----------....._XXXXXXXX,_,'                     
+XXXXXXX|<b    ,>|XXXXXXXXXXXXXXXX/'--..._,/'                       
+XXXXXXX| '\.,/','XXXXXXXXXXXXXX_,'XXXXX`--                         
+XXXXXXX|   .. ,/XXXXXXXXXXXXXX/,'XXXXXX                            
+XXXXXXX/ ,' | /XXXXXXXXXXXXX,' /XXXXXX                             
+XXXXXX.'|'  ||XXXXXXXXXXXXXX/,'XXXXX                               
+XXXXXX/ /   |/XXXXXXXXXXXXX|'/                                     
+XXXXX|  |   /'XXXXXXXXXXXXX||'                                     
+XXXXX| .|   |.XXXXXXXXXXXXX||                                      
+XXXX|' |    ||XXXXXXXXXXXXX||     
+
+-------------------------------------------------introductory----------------------------------------------------
+hello everyone,NO IM NOT DIEVYDOESTUTORIAL33,im a dude with sunglasses,okay
+NO IM NOT BEE WITH SUNGLASSES DANG IT
+anyways here ima show you how you actually run this shit cuz i know
+and for a fact
+that your goldfish memory will forget how to run this bs
+so yeah
+----------------------------------------------how it actually made------------------------------------------------
+anyways hear me out
+so your seeing this terminal thingy you got below,if you dont have it then fuck idk how to summon it out
+so what you gotta do is hit that thingy next the trash icon and the terminal gonna become 2,cool
+wait were still not done,now coppy this on 1st terminal
+|----------------|
+| bash bash.bash |
+|----------------|
+then we paste this on 2end terminal
+|-----------------|
+| bash bash2.bash |
+|-----------------|
+but wait,DO NOT,AT ANY GODAMN SECOND,RUN BOTH OF THEM IN THE SAME TIME,or your pc gonna 
+transform into mangled spaggettis,instead run bash then after if finishes you can run bash 2
+now coppy this
+|-----------------------------------------------------|
+| python3 main_engine.py & python3 bridge_listener.py |
+|-----------------------------------------------------|
+and paste it on your 1st terminal
+HOLD UP
+now we copy this
+|-------------------|
+| python3 web_ui.py |
+|-------------------|
+and run it on terminal 2
+after that happens you can click on the new notif that pops up and enjoy your day
+------------------------------------------------------------------------------------------------------------------

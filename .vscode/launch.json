@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Web UI (Debug Mode)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/web_ui.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Main Engine (Pi Mode)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main_engine.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
